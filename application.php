@@ -4,7 +4,7 @@
 require __DIR__ . '/vendor/autoload.php';
 
 use Symfony\Component\Console\Application;
-use VitasMice\AoC22\Day;
+use VitasMice\AoC22\Command\Day;
 
 $application = new Application();
 
